@@ -31,15 +31,18 @@ Stand: April 2022
 
 # SemTalkOnline Oberfläche – Viewer Ansicht
 
+Funktionalitäten sind eingeschränkt
+
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild3.png" width="600">
 </picture>
 
-- Funktionalitäten sind eingeschränkt
 - Ansicht von Modellen und Eigenschaften von Objekten
 - Export als Word, HTML, PNG und JPG
 
 <hr>
+
+** Menü-Struktur **
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild6.png" width="600">
@@ -53,6 +56,8 @@ Stand: April 2022
 - Print Preview = Drucken über den WebBrowser
 
 <hr>
+
+** Oberfläche **
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild2.png" width="600">
