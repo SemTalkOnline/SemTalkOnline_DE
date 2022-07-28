@@ -70,11 +70,12 @@ Stand: April 2022
 
 <hr>
 
+** Weitere Menü-Erklärungen: **
+
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild8.png" width="600">
 </picture>
 
-Weitere Menü-Erklärungen:
 - Diagram = Diagramm Eigenschaften
   - Weiterführende Navigation über den Pfeil neben dem Button
 
@@ -88,17 +89,19 @@ Weitere Menü-Erklärungen:
 
 # SemTalkOnline Oberfläche – Editor Ansicht
 
+** Funktionalitäten vom Viewer sind komplett enthalten. **
+- Oberfläche erweitert und Modellierungskomponenten
+
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild10.png" width="600">
 </picture>
 
-- Funktionalitäten vom Viewer sind komplett enthalten.
-
-- Oberfläche erweitert und Modellierungskomponenten
-  - Unter dem “Pan & Zoom” Fenster, Objektvorlage (Stencil), diese können mit Hilfe von Drag & Drop aufs Zeichenblatt gezogen werden.
-  - Objektausrichtung, Layout und Modellierungsfunktionen können über das neue Menü-Band oder über die weiteren Funktionen im Menü-Band angepasst werden.
+- Unter dem “Pan & Zoom” Fenster, Objektvorlage (Stencil), diese können mit Hilfe von Drag & Drop aufs Zeichenblatt gezogen werden.
+- Objektausrichtung, Layout und Modellierungsfunktionen können über das neue Menü-Band oder über die weiteren Funktionen im Menü-Band angepasst werden.
 
 <hr>
+
+** Menu-Struktur **
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild11.png" width="600">
@@ -114,25 +117,29 @@ Weitere Menü-Erklärungen:
 
 <hr>
 
+** Modellierung **
+
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild12.png" width="600">
 </picture>
 
-- Modellierung
-  - Durch Doppelklick auf ein Objekt kann ein Name schnell verändert warden, alternativ über die Objekteigenschaften
-  - Objekteigenschaften können über das Kontext Menü (Rechtsklick) angepasst werden. Z.B. Attachments, Kommentare, Bearbeiter und weitere Attribute.
-    - Alternativ über “Object” im Menü-Band
-  - Kannten können durch gedrücke-linke Maustaste von der Mitte des Objektes aus auf weitere Objekte gezogen werden.
+- Durch Doppelklick auf ein Objekt kann ein Name schnell verändert warden, alternativ über die Objekteigenschaften
+- Objekteigenschaften können über das Kontext Menü (Rechtsklick) angepasst werden. Z.B. Attachments, Kommentare, Bearbeiter und weitere Attribute.
+  - Alternativ über “Object” im Menü-Band
+- Kannten können durch gedrücke-linke Maustaste von der Mitte des Objektes aus auf weitere Objekte gezogen werden.
 
 <hr>
+
+** Objekteigenschaften: **
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild14.png" width="600">
 </picture>
 
-- Objekteigenschaften:
-  - Sind Objekttyp spezifisch
-  - Weitere Attribute können erzeugt werden
-    
+- Sind Objekttyp spezifisch
+- Weitere Attribute können erzeugt werden
+
+<hr>
+
 Weitere Funktionen können Sie über das Menü-Band entsprechend aufgerufen und Objekte angepasst werden. 
 Hierzu empfehlen wir Ihnen eine Schulung oder Einführungsveranstaltung.
