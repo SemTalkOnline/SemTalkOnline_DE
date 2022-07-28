@@ -2,7 +2,7 @@
 Stand: April 2022
 
 **Login/Registrierung**
-![image](/assets/images/Bild7.png)
+![image](/assets/main/images/Bild7.png)
 - Datenbank und Repository können auf Wunsch individuell für den Kunden/Interessenten erstellt werden.
 - Rollen:
   - Leser = Read-Only Modus
