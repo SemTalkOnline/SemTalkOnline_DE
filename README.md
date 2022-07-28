@@ -4,8 +4,9 @@ Stand: April 2022
 **Login/Registrierung**
 
 <picture>
-  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild7.png" width="500">
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild7.png" width="600">
 </picture>
+
 - Datenbank und Repository können auf Wunsch individuell für den Kunden/Interessenten erstellt werden.
 - Rollen:
   - Leser = Read-Only Modus
@@ -15,7 +16,10 @@ Stand: April 2022
 
 **Registrierung**
 
-![image](https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild4.png)
+<picture>
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild4.png" width="600">
+</picture>
+
 - UserID = E-Mail
 - Benutzername = Anzeigename
 - Passwort = Kann individuell gesetzt werden
@@ -23,12 +27,18 @@ Stand: April 2022
 
 # SemTalkOnline Oberfläche – Viewer Ansicht
 
-![image](https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild3.png)
+<picture>
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild3.png" width="600">
+</picture>
+
 - Funktionalitäten sind eingeschränkt
 - Ansicht von Modellen und Eigenschaften von Objekten
 - Export als Word, HTML, PNG und JPG
 
-![image](https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild6.png)
+<picture>
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild6.png" width="600">
+</picture>
+
 - File = Modelle öffnen oder Exportieren
 - Open = Modelle können von der Festplatte oder aus der Datenbank geöffnet werden. Standardmäßig werden Modelle aus der Datenbank angezeigt. 
   - Modellauswahl mit Statusinformationen (Änderungsdatum, Wer, Aktuell im Edit-Modus)
@@ -36,7 +46,10 @@ Stand: April 2022
 - Export: Word, HTML, PNG, JPG, Image File (SVG)
 - Print Preview = Drucken über den WebBrowser
 
-![image](https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild2.png)
+<picture>
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild2.png" width="600">
+</picture>
+
 - Wenn mehrere Diagramme im Modell enthalten sind, wird über dem “Pan & Zoom” Fenster ein Auswahlfeld angezeigt.
 
 - Kontext-Menü an den Objekten
@@ -47,7 +60,10 @@ Stand: April 2022
 
 - [x] Weitere Funktionen zur Objektansicht sind über den Pfeil im Menü neben dem “Object” Button verfügbar
 
-![image](https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild8.png)
+<picture>
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild8.png" width="600">
+</picture>
+
 Weitere Menü-Erklärungen:
 - Diagram = Diagramm Eigenschaften
   - Weiterführende Navigation über den Pfeil neben dem Button
