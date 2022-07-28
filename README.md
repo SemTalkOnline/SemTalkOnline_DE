@@ -35,9 +35,9 @@ Stand: April 2022
   - Properties = Objekteigenschaften anzeigen
   - Refine = Wenn ein Objekt eine Ausprägung hat kann entsprechend in diese gesprungen werden. 
 
-* Alternativ im Menü auf “Object” drücken
+- [x] Alternativ im Menü auf “Object” drücken
 
-* Weitere Funktionen zur Objektansicht sind über den Pfeil im Menü neben dem “Object” Button verfügbar
+- [x] Weitere Funktionen zur Objektansicht sind über den Pfeil im Menü neben dem “Object” Button verfügbar
 
 Weitere Menü-Erklärungen:
 - Diagram = Diagramm Eigenschaften
