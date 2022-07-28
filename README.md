@@ -12,6 +12,7 @@ Stand: April 2022
 - Oberfläche kann über Optionen in der Sprache und Layout angepasst werden.
 
 **Registrierung**
+
 ![image](https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild4.png)
 - UserID = E-Mail
 - Benutzername = Anzeigename
@@ -19,6 +20,7 @@ Stand: April 2022
 - Schlüssel kann im Demo-System leer bleiben
 
 # SemTalkOnline Oberfläche – Viewer Ansicht
+
 ![image](https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild3.png)
 - Funktionalitäten sind eingeschränkt
 - Ansicht von Modellen und Eigenschaften von Objekten
