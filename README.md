@@ -3,7 +3,9 @@ Stand: April 2022
 
 **Login/Registrierung**
 
-![image](https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild7.png)
+<picture>
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild7.png" width="500">
+</picture>
 - Datenbank und Repository können auf Wunsch individuell für den Kunden/Interessenten erstellt werden.
 - Rollen:
   - Leser = Read-Only Modus
