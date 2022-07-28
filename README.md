@@ -88,6 +88,10 @@ Weitere Menü-Erklärungen:
 
 # SemTalkOnline Oberfläche – Editor Ansicht
 
+<picture>
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild10.png" width="600">
+</picture>
+
 - Funktionalitäten vom Viewer sind komplett enthalten.
 
 - Oberfläche erweitert und Modellierungskomponenten
@@ -95,6 +99,10 @@ Weitere Menü-Erklärungen:
   - Objektausrichtung, Layout und Modellierungsfunktionen können über das neue Menü-Band oder über die weiteren Funktionen im Menü-Band angepasst werden.
 
 <hr>
+
+<picture>
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild11.png" width="600">
+</picture>
 
 - New = Neues Modell auf Basis eines Standard-Templates
 - Open = Bestehende Modell öffnen, analog zum Viewer
@@ -106,6 +114,10 @@ Weitere Menü-Erklärungen:
 
 <hr>
 
+<picture>
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild12.png" width="600">
+</picture>
+
 - Modellierung
   - Durch Doppelklick auf ein Objekt kann ein Name schnell verändert warden, alternativ über die Objekteigenschaften
   - Objekteigenschaften können über das Kontext Menü (Rechtsklick) angepasst werden. Z.B. Attachments, Kommentare, Bearbeiter und weitere Attribute.
@@ -113,6 +125,10 @@ Weitere Menü-Erklärungen:
   - Kannten können durch gedrücke-linke Maustaste von der Mitte des Objektes aus auf weitere Objekte gezogen werden.
 
 <hr>
+
+<picture>
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild14.png" width="600">
+</picture>
 
 - Objekteigenschaften:
   - Sind Objekttyp spezifisch
