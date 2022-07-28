@@ -14,6 +14,8 @@ Stand: April 2022
 
 - Oberfläche kann über Optionen in der Sprache und Layout angepasst werden.
 
+<hr>
+
 **Registrierung**
 
 <picture>
@@ -25,6 +27,8 @@ Stand: April 2022
 - Passwort = Kann individuell gesetzt werden
 - Schlüssel kann im Demo-System leer bleiben
 
+<hr>
+
 # SemTalkOnline Oberfläche – Viewer Ansicht
 
 <picture>
@@ -34,6 +38,8 @@ Stand: April 2022
 - Funktionalitäten sind eingeschränkt
 - Ansicht von Modellen und Eigenschaften von Objekten
 - Export als Word, HTML, PNG und JPG
+
+<hr>
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild6.png" width="600">
@@ -45,6 +51,8 @@ Stand: April 2022
 
 - Export: Word, HTML, PNG, JPG, Image File (SVG)
 - Print Preview = Drucken über den WebBrowser
+
+<hr>
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild2.png" width="600">
@@ -59,6 +67,8 @@ Stand: April 2022
 - [x] Alternativ im Menü auf “Object” drücken
 
 - [x] Weitere Funktionen zur Objektansicht sind über den Pfeil im Menü neben dem “Object” Button verfügbar
+
+<hr>
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild8.png" width="600">
