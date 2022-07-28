@@ -36,6 +36,7 @@ Stand: April 2022
 -- Refine = Wenn ein Objekt eine Ausprägung hat kann entsprechend in diese gesprungen werden. 
 
 --> Alternativ im Menü auf “Object” drücken
+
 --> Weitere Funktionen zur Objektansicht sind über den Pfeil im Menü neben dem “Object” Button verfügbar
 
 Weitere Menü-Erklärungen:
