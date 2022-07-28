@@ -11,19 +11,19 @@ Stand: April 2022
 - Oberfläche kann über Optionen in der Sprache und Layout angepasst werden.
 
 **Registrierung**
-![image](/assets/images/Bild4.png)
+![image](https://github.com/SemTalkOnline/SemTalkOnline_DE/images/Bild4.png)
 - UserID = E-Mail
 - Benutzername = Anzeigename
 - Passwort = Kann individuell gesetzt werden
 - Schlüssel kann im Demo-System leer bleiben
 
 # SemTalkOnline Oberfläche – Viewer Ansicht
-![image](/assets/images/Bild3.png)
+![image](https://github.com/SemTalkOnline/SemTalkOnline_DE/images/Bild3.png)
 - Funktionalitäten sind eingeschränkt
 - Ansicht von Modellen und Eigenschaften von Objekten
 - Export als Word, HTML, PNG und JPG
 
-![image](/assets/images/Bild6.png)
+![image](https://github.com/SemTalkOnline/SemTalkOnline_DE/images/Bild6.png)
 - File = Modelle öffnen oder Exportieren
 - Open = Modelle können von der Festplatte oder aus der Datenbank geöffnet werden. Standardmäßig werden Modelle aus der Datenbank angezeigt. 
   - Modellauswahl mit Statusinformationen (Änderungsdatum, Wer, Aktuell im Edit-Modus)
@@ -31,7 +31,7 @@ Stand: April 2022
 - Export: Word, HTML, PNG, JPG, Image File (SVG)
 - Print Preview = Drucken über den WebBrowser
 
-![image](/assets/images/Bild2.png)
+![image](https://github.com/SemTalkOnline/SemTalkOnline_DE/images/Bild2.png)
 - Wenn mehrere Diagramme im Modell enthalten sind, wird über dem “Pan & Zoom” Fenster ein Auswahlfeld angezeigt.
 
 - Kontext-Menü an den Objekten
@@ -42,7 +42,7 @@ Stand: April 2022
 
 - [x] Weitere Funktionen zur Objektansicht sind über den Pfeil im Menü neben dem “Object” Button verfügbar
 
-![image](/assets/images/Bild8.png)
+![image](https://github.com/SemTalkOnline/SemTalkOnline_DE/images/Bild8.png)
 Weitere Menü-Erklärungen:
 - Diagram = Diagramm Eigenschaften
   - Weiterführende Navigation über den Pfeil neben dem Button
