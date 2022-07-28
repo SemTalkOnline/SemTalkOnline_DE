@@ -83,3 +83,40 @@ Weitere Menü-Erklärungen:
   - Objects = Darstellung der Modellinhalte, welche Objektarten sind im Modell enthalten und Anzeige der Eigenschaften zu den Objekten bzw. der Position im Modell
 
 - Tools = Modellinformationen, SemTalk Optionen (Darstellung, Sprache, Login zu externen Systemen)
+
+<hr>
+
+# SemTalkOnline Oberfläche – Editor Ansicht
+
+- Funktionalitäten vom Viewer sind komplett enthalten.
+
+- Oberfläche erweitert und Modellierungskomponenten
+  - Unter dem “Pan & Zoom” Fenster, Objektvorlage (Stencil), diese können mit Hilfe von Drag & Drop aufs Zeichenblatt gezogen werden.
+  - Objektausrichtung, Layout und Modellierungsfunktionen können über das neue Menü-Band oder über die weiteren Funktionen im Menü-Band angepasst werden.
+
+<hr>
+
+- New = Neues Modell auf Basis eines Standard-Templates
+- Open = Bestehende Modell öffnen, analog zum Viewer
+- Save = Speichert ein Modell
+- SaveAs = Modell kann neu gespeichert werden, analog zu Office
+- Import = Import bestimmter Formate z.B. SemTalk Editor, BPMN etc.
+- Export = Export in bestimmte Formate und Funktionen aus dem Viewer
+- Check Out und Check In = Modell für andere Benutzer sperren.
+
+<hr>
+
+- Modellierung
+  - Durch Doppelklick auf ein Objekt kann ein Name schnell verändert warden, alternativ über die Objekteigenschaften
+  - Objekteigenschaften können über das Kontext Menü (Rechtsklick) angepasst werden. Z.B. Attachments, Kommentare, Bearbeiter und weitere Attribute.
+    - Alternativ über “Object” im Menü-Band
+  - Kannten können durch gedrücke-linke Maustaste von der Mitte des Objektes aus auf weitere Objekte gezogen werden.
+
+<hr>
+
+- Objekteigenschaften:
+  - Sind Objekttyp spezifisch
+  - Weitere Attribute können erzeugt werden
+    
+Weitere Funktionen können Sie über das Menü-Band entsprechend aufgerufen und Objekte angepasst werden. 
+Hierzu empfehlen wir Ihnen eine Schulung oder Einführungsveranstaltung.
