@@ -1,7 +1,7 @@
 # SemTalk Online - Kurzeinführung
 Stand: April 2022
 
-**Login/Registrierung**
+## Login/Registrierung
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild7.png" width="600">
@@ -16,7 +16,7 @@ Stand: April 2022
 
 <hr>
 
-**Registrierung**
+## Registrierung
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild4.png" width="600">
@@ -31,7 +31,7 @@ Stand: April 2022
 
 # SemTalkOnline Oberfläche – Viewer Ansicht
 
-Funktionalitäten sind eingeschränkt
+**Funktionalitäten sind eingeschränkt**
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild3.png" width="600">
@@ -42,7 +42,7 @@ Funktionalitäten sind eingeschränkt
 
 <hr>
 
-** Menü-Struktur **
+##  Menü-Struktur
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild6.png" width="600">
@@ -57,7 +57,7 @@ Funktionalitäten sind eingeschränkt
 
 <hr>
 
-** Oberfläche **
+## Oberfläche 
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild2.png" width="600">
@@ -75,7 +75,7 @@ Funktionalitäten sind eingeschränkt
 
 <hr>
 
-** Weitere Menü-Erklärungen: **
+##  Weitere Menü-Erklärungen
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild8.png" width="600">
@@ -94,8 +94,9 @@ Funktionalitäten sind eingeschränkt
 
 # SemTalkOnline Oberfläche – Editor Ansicht
 
-** Funktionalitäten vom Viewer sind komplett enthalten. **
-- Oberfläche erweitert und Modellierungskomponenten
+## Funktionalitäten vom Viewer sind komplett enthalten. 
+
+**Oberfläche erweitert und Modellierungskomponenten**
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild10.png" width="600">
@@ -106,7 +107,7 @@ Funktionalitäten sind eingeschränkt
 
 <hr>
 
-** Menu-Struktur **
+## Menu-Struktur
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild11.png" width="600">
@@ -122,7 +123,7 @@ Funktionalitäten sind eingeschränkt
 
 <hr>
 
-** Modellierung **
+## Modellierung
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild12.png" width="600">
@@ -135,7 +136,7 @@ Funktionalitäten sind eingeschränkt
 
 <hr>
 
-** Objekteigenschaften: **
+## Objekteigenschaften
 
 <picture>
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild14.png" width="600">
