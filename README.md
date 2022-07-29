@@ -1,6 +1,10 @@
 # SemTalk Online - Kurzeinführung
 Stand: April 2022
 
+## Allgemeine Informationen
+
+Was ist SemTalk Online
+
 ## Login/Registrierung
 
 <picture>
@@ -149,3 +153,17 @@ Stand: April 2022
 
 Weitere Funktionen können Sie über das Menü-Band entsprechend aufgerufen und Objekte angepasst werden. 
 Hierzu empfehlen wir Ihnen eine Schulung oder Einführungsveranstaltung.
+
+<hr>
+
+## Kontaktinformationen
+
+Semtation GmbH
+Geschwister-Scholl-Straße 38
+D – 14471 Potsdam
+
+Telefon: +49 (0)331 581 39 36
+Fax: +49 (0)331 581 39 29
+
+Informationen und Vertrieb: sales@semtalk.com
+Support: support@semtalk.com
