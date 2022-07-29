@@ -161,7 +161,6 @@ Hierzu empfehlen wir Ihnen eine Schulung oder Einführungsveranstaltung.
 Semtation GmbH - Geschwister-Scholl-Straße 38 - 14471 Potsdam
 
 Telefon: +49 (0)331 581 39 36
-Fax: +49 (0)331 581 39 29
 
 Informationen und Vertrieb: sales@semtalk.com
 
