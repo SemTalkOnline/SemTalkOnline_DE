@@ -8,7 +8,7 @@ Was ist SemTalk Online
 ## Login/Registrierung
 
 <picture>
-  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild1.png" width="600">
+  <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild7.png" width="600">
 </picture>
 
 - Datenbank und Repository können auf Wunsch individuell für den Kunden/Interessenten erstellt werden.
