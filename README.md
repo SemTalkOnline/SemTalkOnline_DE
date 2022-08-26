@@ -3,7 +3,7 @@ Stand: April 2022
 
 ## Allgemeine Informationen
 
-Was ist SemTalk Online
+SemTalk online ist die browser-basierte Variante des Modellierungswerkzeugs SemTalk. Im Gegensatz zum Visio-basierten SemTalk Editor stellen wir Ihnen hier eine Modellierungsanwendung zur Verfügung, mit der Sie auf einem modernen Technologie-Stack Ihre Modelle von Geschäftsprozessen, Wissensmodelle und andere komplexe Strukturen grafisch bearbeiten und verwalten können. Modelle, die mit SemTalk online erstellt wurden, zeichnen sich durch verschiedene Verwendungsmöglichkeiten aus, angefangen von der Präsentation in unserem Portal SemTalk Services über die Kompatibilität und Austauschmöglichkeit mit anderen Werkzeugen bis hin zur Integration in die Plattform Microsoft Office 365 mit ihren Komponenten Microsoft SharePoint und Microsoft Teams. Hier ergeben sich vielfältige Anwendungsmöglichkeiten im Kontext Automatisierung und Wissensmanagement. Gerne tauschen wir uns mit Ihnen zu diesen Themen aus und besprechen mögliche Einsatzszenarien im Kontext Ihrer Digitalisierungsprojekte.
 
 ## Login/Registrierung
 
