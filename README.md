@@ -17,7 +17,7 @@ Was ist SemTalk Online
   - Editor = Modellierung
   - Administrator = Modellierung und Benutzerverwaltung
 
-- Oberfläche kann über Optionen in der Sprache und Layout angepasst werden.
+- Oberfläche kann über Optionen bezüglich Sprache und Layout angepasst werden.
 - Als Repository kann das SemTalk-Standard-Repository verwendet oder ein kundeneigenes erzeugt werden.
 <hr>
 
