@@ -11,14 +11,14 @@ Was ist SemTalk Online
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild1.png" width="600">
 </picture>
 
-- Datenbank und Repository können auf Wunsch individuell für den Kunden/Interessenten erstellt werden.
+- Die Default-Datenbank ist standardmäßig unsere Demo-Datenbank, auf der alle Inhalte für alle User sichtbar sind. Bei Bedarf kann eine kundenspezifische Datenbank individuell erstellt werden.
 - Rollen:
   - Leser = Read-Only Modus
   - Editor = Modellierung
   - Administrator = Modellierung und Benutzerverwaltung
 
 - Oberfläche kann über Optionen in der Sprache und Layout angepasst werden.
-
+- Als Repository kann das SemTalk-Standard-Repository verwendet oder ein kundeneigenes erzeugt werden.
 <hr>
 
 ## Registrierung
