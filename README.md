@@ -55,9 +55,9 @@ SemTalk online ist die browser-basierte Variante des Modellierungswerkzeugs SemT
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild6.png" width="600">
 </picture>
 
-- File = Modelle öffnen oder Exportieren
+- File = Modelle öffnen oder exportieren
 - Open = Modelle können von der Festplatte oder aus der Datenbank geöffnet werden. Standardmäßig werden Modelle aus der Datenbank angezeigt. 
-  - Modellauswahl mit Statusinformationen (Änderungsdatum, Wer, Aktuell im Edit-Modus)
+  - Modellauswahl mit Statusinformationen (Änderungsdatum, Wer, aktuell im Edit-Modus)
 
 - Export: Word, HTML, PNG, JPG, Image File (SVG)
 - Print Preview = Drucken über den WebBrowser
