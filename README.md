@@ -14,7 +14,8 @@ Was ist SemTalk Online
 - Datenbank und Repository können auf Wunsch individuell für den Kunden/Interessenten erstellt werden.
 - Rollen:
   - Leser = Read-Only Modus
-  - Editor = Modellierer 
+  - Editor = Modellierung
+  - Administrator = Modellierung und Benutzerverwaltung
 
 - Oberfläche kann über Optionen in der Sprache und Layout angepasst werden.
 
