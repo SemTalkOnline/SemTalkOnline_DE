@@ -42,7 +42,7 @@ SemTalk online ist die browser-basierte Variante des Modellierungswerkzeugs SemT
   <img src="https://raw.githubusercontent.com/SemTalkOnline/SemTalkOnline_DE/main/images/Bild3.png" width="600">
 </picture>
 
-- Mit dem Login in der Rolle "Viewer" können Modelle auch für andere im "Nur-Lese-Modus" zur Verfügung gestellt werden.
+- Mit dem Login in der Rolle "Leser" können Modelle auch für andere im "Nur-Lese-Modus" zur Verfügung gestellt werden.
 - Ansicht von Modellen und Eigenschaften von Objekten
 - Export als Word, HTML, PNG und JPG
 - Für mehr Funktionalitäten im Rahmen der Präsentation von Modellen bieten wir zusätzlich die SemTalk Services als Portal-Oberfläche an. Gerne diskutieren wir Ihre möglichen Einsatzszenarien. Kontaktieren Sie uns unter sales@semtalk.com
