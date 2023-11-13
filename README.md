@@ -163,10 +163,11 @@ Hierzu empfehlen wir Ihnen eine Schulung oder Einführungsveranstaltung.
 
 Semtation GmbH - Geschwister-Scholl-Straße 38 - 14471 Potsdam
 
-Besuchen Sie gerne unsere <a href="https://www.semtation.de/semtalk-online" target="_blank">Website</a> um weiteres zu SemTalk Online und unserer Produktpalette zu erfahren. 
 
 Telefon: +49 (0)331 581 39 36
 
 Informationen und Vertrieb: sales@semtalk.com
 
 Support: support@semtalk.com
+
+Besuchen Sie gerne unsere <a href="https://www.semtation.de/semtalk-online" target="_blank">Website</a> um weiteres zu SemTalk Online und unserer Produktpalette zu erfahren. 
