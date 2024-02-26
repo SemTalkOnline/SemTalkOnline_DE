@@ -13,4 +13,5 @@ Die Benutzerverwaltung zeigt alle existierenden Benutzer an. Es können neue Ben
 Wird ein Benutzer selektiert und der Bearbeiten-Button geklickt, öffnet sich eine Detailansicht zu diesem Benutzeraccount. Darin kann der Name angepasst oder das Kennwort gesetzt werden. 
 Ebenso können Rollen zugewiesen werden. Dabei sollte jedoch mit Vorsicht vorgegangen werden. Die Administrationsrolle, sollte nur für einige wenige Benutzer mit Expertise in SemTalk Online verwendet werden.
 
+
 ![BenutzerDialogRolle](./images/benutzerverwaltung_benutzerverwaltung3.png)
