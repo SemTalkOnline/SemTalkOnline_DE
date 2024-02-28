@@ -1,5 +1,5 @@
 # Überblick
-Geschäftsprozesse werden in SemTalkOnline standardisiert mit Hilfe der "Business Process Model And Notation" graphisch beschrieben. Dazu stellt die BPMN bestimmte Symbole zur Verfügung, die der Anwender in SemTalkOnline von einer so genannten Schablone auf die Zeichenfläche ziehen kann.<BR>
+Geschäftsprozesse werden in SemTalkOnline standardisiert mit Hilfe der "Business Process Model And Notation" graphisch beschrieben. Dazu stellt  die BPMN bestimmte Symbole zur Verfügung, die der Anwender in SemTalkOnline von einer so genannten Schablone auf die Zeichenfläche ziehen kann.<BR>
 Die BPMN ist derzeit aktuell als [BPMN 2.0](https://www.omg.org/spec/BPMN/2.0/) auf den Webseiten der ObjectManagementGroup (OMG) publiziert. 
 
 # Kernelemente
