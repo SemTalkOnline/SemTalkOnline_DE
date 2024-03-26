@@ -15,6 +15,10 @@ SemTalk Online liefert eine Beispielhintergrundseite mit Diagrammname und SemTal
 
 Um eine Hintergrundseite auf individuelle Bedürfnisse anzupassen, gibt es einen Editor für Kopf- und Fußzeile. Dieser wird über den Menüpunkt Extras --> Anpassen --> Kopfzeile/Fußzeile aufgerufen.
 
+Da es möglich sein soll verschiedenste Hintergrundseiten zu verwenden, werden beim Benutzer alle exisitierenden Hintergrundseiten angeboten. Dieser kann dann entscheiden welche der Seite bearbeitet bzw. auf die aktuelle Modelldatei angewendet werden soll.
+
+![Hintergrundseite Startbildschirm](./images/hintergrund/HintergrundStart.png)
+
 ![Hintergrundseiten Menü](./images/hintergrund/HintergrundMenue.png)
 
 Im geöffneten Dialog können die Elemente einer Hintergrundseite angelegt, bearbeitet und gelöscht werden. Ebenso können Hintergrundseiten exportiert, importiert und auf den Ausgangszustand zurückgesetzt werden.
