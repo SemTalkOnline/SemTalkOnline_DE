@@ -65,7 +65,7 @@ Für das Arbeiten mit Bildern bietet die Menüleiste verschiedenste Optionen.
 
 ## Arbeiten mit dem Bildermanager
 
-Der Bildermanager listet alle vorhandenen Bilder auf. Es gilt jedoch zu beachten dass Bilder, die über den Bildermanager angelegt wurden, initial nur im Bildermanager des aktuell geöffneten Modelles existieren. Um ein oder mehrere Bilder in die Datei zu übernehmen, muss der Menüeintrag "Für Datei übernehmen" betätigt werden. Es danach sind die Bilder im Modell eingebettet. Dieses Vorgehen stellt sicher dass die Bilder zuerst korrekt angelegt und kontrolliert werden können bevor sie Auswirkungen auf die Modelldatei haben. Genauso lassen sich die Bilder dann auch wieder zentral aus der Datei entfernen indem "Aus der Datei entfernen" im Menü geklickt wird.
+Der Bildermanager listet alle vorhandenen Bilder auf. Es gilt jedoch zu beachten dass Bilder, die über den Bildermanager angelegt wurden, initial nur im Bildermanager des aktuell geöffneten Modelles existieren. Um ein oder mehrere Bilder in die Datei zu übernehmen, muss der Menüeintrag "Für Datei übernehmen" betätigt werden. Erst danach sind die Bilder im Modell eingebettet. Dieses Vorgehen stellt sicher dass die Bilder zuerst korrekt angelegt und kontrolliert werden können bevor sie Auswirkungen auf die Modelldatei haben. Genauso lassen sich die Bilder dann auch wieder zentral aus der Datei entfernen indem "Aus der Datei entfernen" im Menü geklickt wird.
 
 Bilder, die in die Datei eingebettet sind, besitzten in der Spalte Datei ein Häkchen.
 
