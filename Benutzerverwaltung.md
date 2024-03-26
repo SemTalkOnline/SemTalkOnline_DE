@@ -14,3 +14,5 @@ Wird ein Benutzer selektiert und der Bearbeiten-Button geklickt, öffnet sich ei
 Ebenso können Rollen zugewiesen werden. Dabei sollte jedoch mit Vorsicht vorgegangen werden. Die Administrationsrolle, sollte nur für einige wenige Benutzer mit Expertise in SemTalk Online verwendet werden.
 
 ![BenutzerDialogRolle](./images/benutzerverwaltung_benutzerverwaltung3.png)
+
+
