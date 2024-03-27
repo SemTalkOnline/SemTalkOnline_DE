@@ -1,6 +1,6 @@
 SemTalk Online erlaubt das individuelle Gestalten von Kopf- und Fußzeilen für Modelldateien und Modellseiten. In SemTalk Online wird dies zusammenfassend auch als Hintergrundseite bezeichnet.
 
-## Hintergrundseiten einrichten
+# Hintergrundseiten einrichten
 
 Das sich die Elemente eine Hintergrundseite an der Zeichenblattgröße orientieren, ist es notwendig Zeichenblattgröße sowie Ausrichtung einzustellen. 
 Dafür siehe [Wiki Seite: Zeichenblattformat](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Zeichenblattformat)
@@ -11,17 +11,32 @@ Ist ein Zeichenblattformat definiert, kann die Anzeige der Hintergrundseite mit 
 
 SemTalk Online liefert eine Beispielhintergrundseite mit Diagrammname und SemTalk Logo in der Kopfzeile.
 
-## Hintergrundseiten anpassen
+# Hintergrundseiten Editor
 
 Um eine Hintergrundseite auf individuelle Bedürfnisse anzupassen, gibt es einen Editor für Kopf- und Fußzeile. Dieser wird über den Menüpunkt Extras --> Anpassen --> Kopfzeile/Fußzeile aufgerufen.
 
-Da es möglich sein soll verschiedenste Hintergrundseiten zu verwenden, werden beim Benutzer alle exisitierenden Hintergrundseiten angeboten. Dieser kann dann entscheiden welche der Seite bearbeitet bzw. auf die aktuelle Modelldatei angewendet werden soll.
+![Hintergrundseiten Menü](./images/hintergrund/HintergrundMenue.png)
+
+## Hintergrundseiten Übersicht
+
+Da es möglich sein soll verschiedenste Hintergrundseiten zu verwenden, werden dem Benutzer alle exisitierenden Hintergrundseiten angeboten. Dieser kann dann entscheiden welche der Seite bearbeitet bzw. auf die aktuelle Modelldatei angewendet werden soll.
+
+Stehen mehrere Hintergrundseiten zur Auswahl wird dem Benutzer eine Übersichtsseite als Startbildschirm angezeigt. 
 
 ![Hintergrundseite Startbildschirm](./images/hintergrund/HintergrundStart.png)
 
-![Hintergrundseiten Menü](./images/hintergrund/HintergrundMenue.png)
+Es gibt drei mögliche Quelle für Hintergrundseiten.
+* die Modelldatei: Ist bereits eine Hintergrundseite für die Datei gespeichert, kann diese aufgerufen, geändert und wieder in die Datei gespeichert werden.
+* aus den Cookies: Die lokalen Einstellungen jedes Benutzers beinhalten einen Standardsatz einer Hintergrundseite, welcher als Basis genutzt werden kann um eine Hintergrundseiten zu bauen. Wird an einer Hintergrundseite gearbeitet, befindet sich der aktuelle Stand auch immer in den eigenen Cookies.
+* aus der Datenbank (wenn mit MongoDB gearbeitet wird): Erstellte Hintergrundseiten können in der MongoDB abgelegt werden, wenn der Benutzer mit Administratorrolle angemeldet ist. Diese können dann von allen anderen Benutzern ebenfalls für ihre Modelldateien verwendet werden.
 
-Im geöffneten Dialog können die Elemente einer Hintergrundseite angelegt, bearbeitet und gelöscht werden. Ebenso können Hintergrundseiten exportiert, importiert und auf den Ausgangszustand zurückgesetzt werden.
+Via Doppelklick auf einen der Einträge (oder durch Selektion und Klick des Bearbeiten Buttons)  kann die entsprechende Hintergrundseite geöffnet werden.
+
+Gibt es keine Hintergrundseiten in Datei oder Datenbank, wird automatisch die Hintergrundseite geöffnet,die in den Cokkies des Benutzers existiert. In diesem Fall gibt es keine extra Startseite.
+
+## Hintergrundseite erstellen und bearbeiten
+
+Im geöffneten Dialog können die Elemente einer Hintergrundseite angelegt, bearbeitet und gelöscht werden. Ebenso können Hintergrundseiten exportiert, importiert und auf den Ausgangszustand zurückgesetzt werden. Der Startbutton führt zu einer evtl. existierenden Übersichtsseite.
 
 ![Hintergrundseiten Dialog](./images/hintergrund/Hintergrunddialog.png)
 
