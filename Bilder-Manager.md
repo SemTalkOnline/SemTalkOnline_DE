@@ -4,7 +4,7 @@ SemTalk Online erlaubt das Integrieren von Bildern in die Modellseiten zur visue
 
 Dafür haben die meisten Schablonen ein Symbol namens "Bild" was auf dem Zeichenblatt platziert werden kann. Dieses Symbol dient als Container zur Darstellung des Bildes.
 
-![Bildsymbol in der Schablone](./images/bildermanager/bildschablone.png)
+![Bildsymbol in der Schablone](./images/bildermanager/bildschablone.PNG)
 
 Die Integration der eigentlichen Bilddatei kann auf unterschiedliche Arten erfolgen:
 
@@ -65,7 +65,7 @@ Für das Arbeiten mit Bildern bietet die Menüleiste verschiedenste Optionen.
 
 ## Arbeiten mit dem Bildermanager
 
-Der Bildermanager listet alle vorhandenen Bilder auf. Es gilt jedoch zu beachten dass Bilder, die über den Bildermanager angelegt wurden, initial nur im Bildermanager des aktuell geöffneten Modelles existieren. Um ein oder mehrere Bilder in die Datei zu übernehmen, muss der Menüeintrag "Für Datei übernehmen" betätigt werden. Es danach sind die Bilder im Modell eingebettet. Dieses Vorgehen stellt sicher dass die Bilder zuerst korrekt angelegt und kontrolliert werden können bevor sie Auswirkungen auf die Modelldatei haben. Genauso lassen sich die Bilder dann auch wieder zentral aus der Datei entfernen indem "Aus der Datei entfernen" im Menü geklickt wird.
+Der Bildermanager listet alle vorhandenen Bilder auf. Es gilt jedoch zu beachten dass Bilder, die über den Bildermanager angelegt wurden, initial nur im Bildermanager des aktuell geöffneten Modelles existieren. Um ein oder mehrere Bilder in die Datei zu übernehmen, muss der Menüeintrag "Für Datei übernehmen" betätigt werden. Erst danach sind die Bilder im Modell eingebettet. Dieses Vorgehen stellt sicher dass die Bilder zuerst korrekt angelegt und kontrolliert werden können bevor sie Auswirkungen auf die Modelldatei haben. Genauso lassen sich die Bilder dann auch wieder zentral aus der Datei entfernen indem "Aus der Datei entfernen" im Menü geklickt wird.
 
 Bilder, die in die Datei eingebettet sind, besitzten in der Spalte Datei ein Häkchen.
 
@@ -80,7 +80,7 @@ Werden viele als base64 eingebettete Bilder verwendet gilt es auch ein Auge auf 
 Um ein Bild in einem SemTalk Online Modell einzubetten muss die Datei in eine base64 Zeichenkette umkonvertiert werden.
 SemTalk Online bietet dafür kein eigenes Konvertierungswerkzeug an, sondern verlinkt auf ein freizugängliches unter https://base64.guru/converter/encode/image. Konverter anderer Anbieter können aber ebenso genutzt werden.
 
-![base64 konvertieren](./images/bildermanager/konverter.png)
+![base64 konvertieren](./images/bildermanager/konverter.PNG)
 
 Für die Konvertierung muss das Bild einmal in den Konvertierungsservice hochgeladen werden, das Output Format auf "Data URI -- data:content/type;base64" gestellt werden und dann der Encode Knopf gedrückt werden. 
 Das Ergebnis kann dann nach SemTalk Online in das Feld "Bild" kopiert werden. Hat der Vorgang geklappt zeigt SemTalk Online auch direkt eine Vorschau des Bildes im Dialog an.
