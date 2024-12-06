@@ -4,9 +4,9 @@ Das Hauptmenü besteht aus mehreren Einträgen, die alle jeweils weitere Unterpu
 
 ### Allgemeines Menü (linksausgerichtet, grüner Kasten):
 
-* **Datei**: Fasst alle Funktionalitäten rund um Modelldateien zusammen. Siehe [Wiki Seite: Menüeintrag Datei](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/File-Menu)
+* **Datei**: Fasst alle Funktionalitäten rund um Modelldateien zusammen. Siehe [Wiki Seite: Menüeintrag Datei](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Men%C3%BCeintrag-Datei)
 
-* **Start**: Enthält verschiedene Tools und Funktionalitäten um Modellinhalte zu konsumieren oder deren Aussehen zu bearbeiten. Siehe [Wiki Seite: Menüeintrag Start](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/View)
+* **Start**: Enthält verschiedene Tools und Funktionalitäten um Modellinhalte zu konsumieren oder deren Aussehen zu bearbeiten. Siehe [Wiki Seite: Menüeintrag Ansicht](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Men%C3%BCeintrag-Ansicht)
 
 * **Symbol**: Enthält Möglichkeiten zur graphischen Bearbeitung eines oder mehrerer selektierter Shapes (Gruppierung, Formatierung etc.) Siehe [Wiki Seite: Menüeintrag Symbol](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Men%C3%BCeintrag-Symbol)
 
@@ -16,7 +16,7 @@ Das Hauptmenü besteht aus mehreren Einträgen, die alle jeweils weitere Unterpu
 
 * **Diagramm**: Hier können diagrammbezogene Aktionen durchgeführt werden  (Neu, Löschen, Eigenschaften etc.)
 
-* **Explorer**: Enthält Einträge, die es dem Benutzer erlauben, die Inhalte der Modelldatei zu erkunden, die nicht auf dem ersten Blick auf einem Zeichenblatt sichtbar sind. Dabei handelt es sich hauptsächlich um das Metamodell der jeweiligen Notation und die dazugehörigen Modellierungsobjekte, die der Modellierer angelegt hat. Die Einträge dieses Menüpunktes sind hauptsächlich für Benutzer mit Administratorrolle sichtbar. Siehe [Wiki Seite: Explorer](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Explorer)
+* **Explorer**: Enthält Einträge, die es dem Benutzer erlauben, die Inhalte der Modelldatei zu erkunden, die nicht auf dem ersten Blick auf einem Zeichenblatt sichtbar sind. Dabei handelt es sich hauptsächlich um das Metamodell der jeweiligen Notation und die dazugehörigen Modellierungsobjekte, die der Modellierer angelegt hat. Die Einträge dieses Menüpunktes sind hauptsächlich für Benutzer mit Administratorrolle sichtbar. Siehe [Wiki Seite: Menüeintrag-Explorer](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Men%C3%BCeintrag-Explorer)
 
 * **Extras**: Hier sind verschiedenste Funktionalitäten zu finden, z.B. Kopf- und Fußzeileneinstellungen, Auswertungstools, Menüeditor, ChatGPT Werkzeug, Benutzerverwaltung für Administratoren. Siehe [Wiki Seite: Extras](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Men%C3%BCeintrag-Extras)
 
