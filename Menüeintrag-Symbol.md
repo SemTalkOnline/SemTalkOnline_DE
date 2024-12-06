@@ -6,7 +6,7 @@ Grundsätzlich ist es notwendig, zuerst ein Shape zu selektieren, bevor die Funk
 
 **Neu**: Das Neu-Menü schlägt verfügbare Shapes vor, die im Prozessablauf zum selektierten Shape passen. Durch Anklicken eines dieser Vorschläge wird automatisch ein Shape auf dem Zeichenblatt angelegt und mit dem selektierten Shape verbunden.
 
-**Formatierung**: Öffnet den Formatierungsdialog zum Ändern des Aussehens des selektierten Shapes. Siehe [Formatierung](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Style)
+**Formatierung**: Öffnet den Formatierungsdialog zum Ändern des Aussehens des selektierten Shapes. Siehe [Formatierung](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Formatierung)
 
 **Symbole verbinden**: Es können zwei oder mehr Shapes selektiert werden. "Symbole verbinden" zieht dann automatisch Verbinder zwischen den Shapes.
 
