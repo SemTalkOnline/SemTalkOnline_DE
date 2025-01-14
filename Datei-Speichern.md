@@ -6,7 +6,7 @@ Grundsätzlich werden Dateien in der SemTalkOnline Datenbank gespeichert. Es ist
 
 Das einfache "Speichern" speichert dabei die aktuell geöffnete Datei unter dem bereits gewählten Namen.
 
-"Speichern Unter" öffnet einen Dialog, der es ermöglicht, einen Namen zu vergeben, den Computer als lokalen Speicherort zu wählen und die Dateiendung einzustellen. Existierende Dateien können aus der Liste selektiert und anschließend überschrieben werden. 
+"Speichern Unter" öffnet einen Dialog, der es ermöglicht, einen Namen zu vergeben, den Computer als lokalen Speicherort zu wählen und die Dateiendung einzustellen. Existierende Dateien können aus der Liste selektiert und anschließend überschrieben werden. 2
 
 ![SpeichernUnter](./images/datei_speichern_speichern2.png)
 
