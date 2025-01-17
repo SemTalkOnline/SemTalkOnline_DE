@@ -40,7 +40,7 @@ Sobald in einem bestehenden Geschäftsprozess eine Aufgabe verfeinert wird, in f
 
 Danach kann der Benutzer wie gewohnt modellieren, um die Verfeinerung zu beschreiben.<BR>
 Die von SemTalkOnline automatisch erzeugten Ereignisse stellen nun logisch die Schnittstellen der Verfeinerung zum übergeordneten Geschäftsprozess dar.
-Die Schnittstellen können über den Eigenschaften-Dialog eines Ereignis (Ereignis -> Schnittstelle) abgefragt werden
+Die Schnittstellen können über den Eigenschaften-Dialog eines Ereignis (Ereignis -> Schnittstelle) abgefragt werden.
 
 ![Verfeinerung_Schnittstellen3](./images/verfeinerungen/verfeinerungen_ereignis1.png)
 
