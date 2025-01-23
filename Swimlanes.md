@@ -30,3 +30,5 @@ Swimlanes lassen sich zu- und aufklappen:
 _**Achtung:**_ Wenn eine Swimlane gelöscht wird, werden automatisch alle Shapes mit entfernt, die sich in der Swimlane befunden haben. 
 
 ![SwimlaneMenü](./images/Swimlanes_loeschen.png)
+
+Die Größe von Swimlanes und Pools kann individuell angepasst werden. Dazu muss die Swimlane die sie anpassen möchten, mit Linksklick ausgewählt werden. Die Größe lässt sich dann an den jeweiligen grünen Verschiebepunkten in die gewünschte Richtung anpassen. 

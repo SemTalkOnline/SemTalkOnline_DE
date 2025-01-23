@@ -45,6 +45,7 @@ Die Schnittstellen können über den Eigenschaften-Dialog eines Ereignis (Ereign
 ![Verfeinerung_Schnittstellen3](./images/verfeinerungen/verfeinerungen_ereignis1.png)
 
 Im Falle des Startereignis einer Verfeinerung beschreibt die Schnittstelle, von welcher Aufgabe des übergeordneten Geschäftsprozesses die Verfeinerung ausgelöst wird. Handelt es sich um das Endereignis einer Verfeinerung, so gibt die Schnittstelle an, welche Aufgabe im übergeordneten Geschäftsprozess folgt.
+
 ![Verfeinerung_Schnittstellen4](./images/verfeinerungen/verfeinerungen_ereignis2.png)
 
 **Wichtiger Hinweis:** Die Ereignisse sind nun durch die Schnittstellen bezeichnet. Will man den Ereignissen (z.B. durch die Vokabular-Funktion) anders benennen, so werden die Schnittstellen nicht überschrieben. Sollen die Ereignisse nur durch die andere Benennung beschrieben werden, müssen die bestehenden Schnittstellen gelöscht werden.
