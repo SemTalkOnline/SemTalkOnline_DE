@@ -32,3 +32,13 @@ _**Achtung:**_ Wenn eine Swimlane gelöscht wird, werden automatisch alle Shapes
 ![SwimlaneMenü](./images/Swimlanes_loeschen.png)
 
 Die Größe von Swimlanes und Pools kann individuell angepasst werden. Dazu muss die Swimlane die sie anpassen möchten, mit Linksklick ausgewählt werden. Die Größe lässt sich dann an den jeweiligen grünen Verschiebepunkten in die gewünschte Richtung anpassen. 
+* Bewegen des Mauszeigers auf Verschiebepunkt
+* Der Mauszeiger wird zu einem Doppelpfeil der vorgibt in welche Richtung sie die Swimlane verschieben können
+
+![SwimlaneGroesseanpassen](images/Swimlanes/swimlane_groesse_anpassen.PNG)
+
+Swimlanes können nach Bedarf verschoben, miteinander verbunden und Pools hinzugefügt werden.
+*  Linksklick und halten auf den Rand oder den Kopf der Swimlane um sie zu verschieben
+*  Rand einer Swimlane an Rand anderer Swimlane anfügen bis eine gestrichelte rote Linie erscheint und loslassen um Swimlanes miteinander zu verbinden
+*  Swimlane in Kopfzeile eines Pools verschieben um sie dem Pool hinzuzufügen 
+
