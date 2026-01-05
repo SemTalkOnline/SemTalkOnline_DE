@@ -4,7 +4,7 @@ Diese Wiki Seite gibt eine erste Übersicht über die wichtigsten Schritte zum E
 Es wird daher empfohlen sich mit den ersten Schritten vertraut zu machen, um die eigene SemTalk Online Umgebung optimal an die eigenen Ansprüche anpassen zu können.
 
 ## Login/Registrierung
-![Login Bildschirm](./images/loginScreen.PNG)
+![Login Bildschirm](./images/loginScreen.png)
 
 Ist ein Benutzer Account vorhanden kann direkt der Login Vorgang erfolgen. Die gewählte Rolle muss dem Benutzer zugewiesen sein. Ein Benutzer mit einfacher Modellierungsaufgabe sollte die Rolle Editor besitzen und diese für den Login auswählen.
 
@@ -15,7 +15,7 @@ Eine ausführlichere Erklärung zum Login-Bildschirm ist hier zu finden:
 
 ## Registrierung
 
-![Registrierung Bildschirm](./images/signupScreen.PNG)
+![Registrierung Bildschirm](./images/signupScreen.png)
 
 Ist kein Benutzer Account vorhanden, kann eine Registrierung erfolgen, sofern dies in der Applikation freigegeben ist. In der Demo Applikation können sich Benutzer zu Testzwecken frei registrieren und bekomme die Editor Rolle zugewiesen.
 
@@ -26,7 +26,7 @@ Eine ausführlichere Erklärung zum Registrierungsbildschirm ist hier zu finden:
 
 # Konfiguration der SemTalkOnline Oberfläche (Editor Ansicht)
 
-![SemTalk Überblick Oberfläche Editor](./images/SemTalkBPMNStart.PNG)
+![SemTalk Überblick Oberfläche Editor](./images/SemTalkBPMNStart.png)
 
 ## Schablone, Verschiebe- und- Zoom Fenster und Weiteres
 
@@ -88,7 +88,7 @@ Für die Arbeit mit Pools und Swimlanes empfielt es sich zuerst alle Pools und S
 
 ## Objekteigenschaften
 
-![SemTalk Überblick Eigenschaften](./images/SemTalkBPMNStartEigenschaften.PNG)
+![SemTalk Überblick Eigenschaften](./images/SemTalkBPMNStartEigenschaften.png)
 
 - Jedes SemTalk Element hat gurndlegende Eigenschaften, die über den Eigenschaften Dialog gesteuert werden
 - Zum öffnen: 
