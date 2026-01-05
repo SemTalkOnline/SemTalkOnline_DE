@@ -26,7 +26,7 @@ Eine ausführlichere Erklärung zum Registrierungsbildschirm ist hier zu finden:
 
 # Konfiguration der SemTalkOnline Oberfläche (Editor Ansicht)
 
-![SemTalk Überblick Oberfläche Editor](./images/SemTalkBPMNStart.png)
+![SemTalk Überblick Oberfläche Editor](Overview.png)
 
 ## Schablone, Verschiebe- und- Zoom Fenster und Weiteres
 
