@@ -1,5 +1,5 @@
 
-![SemTalk Login Bildschirm](./images/loginScreen.PNG)
+![SemTalk Login Bildschirm](./images/loginScreen.png)
 
 Um eine Anmeldung bei SemTalk Online durchführen zu können, wird eine UserID (die E-Mail Adresse) und ein Passwort benötigt.
 Weiterhin muss die richtige Datenbank gewählt werden, falls mehrere zur Auswahl stehen. Für die kostenlose Variante von SemTalk Online ist immer die default-Datenbank zu wählen.
