@@ -1,5 +1,5 @@
 
-![Menüeintrag Prozess](./images/Menueeintrag_Prozess.png)
+![Menüeintrag Prozess](/images/MenuEEINTRAG_Prozess.png)
 
 
 Der Menüeintrag "Prozess" erlaubt es dem Anwender, grundsätzliche Arbeiten am Prozess durchzuführen.
