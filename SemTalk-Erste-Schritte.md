@@ -66,7 +66,7 @@ Diese werden auf anderen Wiki Seiten detailiert beschrieben. Folgen Sie den Link
 SemTalk Online arbeitet modellbasiert, d.h. über Datei-->Neu werden neue Dateien erzeugt, die der entsprechend gewählten Notation angehören.
 Jede Datei kann mehrere Daigrammseiten beinhalten, welche wiederum mit den eigentlich Modellen gefüllt werden.
 
-![SemTalk Überblick Modellierung Editor](./images/SemTalkBPMNStartEditor.PNG)
+![SemTalk Überblick Modellierung Editor](/images/SemTalkBPMNStartEditor.png)
 
 Um ein Prozessmodell aufbauen zu können, sind folgende Vorgehensweisen grundsätzlich relevant:
 
