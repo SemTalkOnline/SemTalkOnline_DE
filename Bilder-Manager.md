@@ -4,7 +4,7 @@ SemTalk Online erlaubt das Integrieren von Bildern in die Modellseiten zur visue
 
 Dafür haben die meisten Schablonen ein Symbol namens "Bild" was auf dem Zeichenblatt platziert werden kann. Dieses Symbol dient als Container zur Darstellung des Bildes.
 
-![Bildsymbol in der Schablone](./images/bildermanager/bildschablone.PNG)
+![Bildsymbol in der Schablone](images/bildermanager/bildschablone.PNG)
 
 Die Integration der eigentlichen Bilddatei kann auf unterschiedliche Arten erfolgen:
 
@@ -24,14 +24,14 @@ Diese Variante gilt ausschließlich für Bilder, die als Hyperlink eingefügt we
 Ist ein Bild Symbol auf dem Zeichenblatt platziert, kann durch Doppelklick auf den Namen "Bild", den das Symbol initial bekommen hat, einfach ein Hyperlink als Text eingefügt werden.
 Mit Enter oder klick an eine andere Stelle wird die Url übernommen und das Bild wird angezeigt.
 
-![Bild als Hyperlink am Symbol einfügen](./images/bildermanager/bildurlamsymbol.png)
+![Bild als Hyperlink am Symbol einfügen](images/bildermanager/bildurlamsymbol.png)
 
 
 # Bilder über den Formatierungsdialog hinzufügen
 
 Ist ein Bild Symbol auf dem Zeichenblatt platziert, kann mit Rechtsklick --> Formatierung (oder Menü Symbol-->Formatierung) der Formatierungsdialog geöffnet werden. Dieser besitzt den Tab "Bild".
 
-![Formatierung Tab Bild öffnen](./images/bildermanager/bildformatierung.png)
+![Formatierung Tab Bild öffnen](./images/bildermanager/bildformatierung.PNG)
 
 Hier kann entweder ein externer Hyperlink angegeben werden oder eine nach base64 konvertierte Bilddatei eingebettett werden. Dazu lesen Sie bitte wieder den Abschnitt: [Bilder nach base64 konvertieren](./Bilder-Manager#bilder-nach-base64-konvertieren)!
 
@@ -45,16 +45,16 @@ Wird im Feld ID ein Name für das Bild eingetragen ist das angelegte Bild danach
 ## Den Bildermanager öffnen
 
 Über den Menüpunkt Extras --> Anpassen --> Bildermanager wird der Bildermanager geöffnet.
-![BilderManager öffnen](./images/bildermanager/bildermanager.png)
+![BilderManager öffnen](/images/bildermanager/bildermanager.png)
 
-![BilderManager Oberfläche](./images/bildermanager/bildermanagercontrol.png)
+![BilderManager Oberfläche](./images/bildermanager/bildermanagercontrol.PNG)
 
 Im nun geöffneten Fenster werden dann alle existierenden Bilder der Datei mit Namen, Inhalt, Größe und ob es bereits in der Datei gespeichert ist aufgelistet. 
 Für das Arbeiten mit Bildern bietet die Menüleiste verschiedenste Optionen.
 
 ## Die Bildermanager Menüleiste
 
-![BilderManager Oberfläche](./images/bildermanager/bildermanagermenue.png)
+![BilderManager Oberfläche](/images/bildermanager/bildermanagermenue.png)
 
 * Neu (+ Symbol): Erlaubt das Anlegen eines neuen Bilder im Bildermanager
 * Bearbeiten (Stift Symbol): Vorhandene Bilder können bearbeitet werden
