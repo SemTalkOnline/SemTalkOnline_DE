@@ -12,4 +12,4 @@ Soll eine eigene private Datenbank genutzt werden, kann über support@semtalk.co
 Sowohl bei Login als auch bei Registrierung kann der Vorgang alternativ über einen Microsoft 365 Account durchgeführt werden. Wird der Button geklickt werden Sie aufgefordert sich auf Ihrem MS365 Account anzumelden und werden danach mit diesem Account auf der SemTalk Online Datenbank registriert. SemTalk Online speichert dafür Ihre E-Mail Adresse und den hinterlegten Namen. Ein extras Passwort wird nicht benötigt.
 Nachdem Sie registriert sind können Sie auf der Anmeldeseite über den MS365 Button den Loginprozess durchführen. Die Authentifizierung läuft auf diese Art ausschließlich über die Authentifizierungsstellen von Microsoft 365. 
 
-![SemTalk Registrierungsbildschirm](./images/signupScreen.PNG)
+![SemTalk Registrierungsbildschirm](./images/signupScreen.png)

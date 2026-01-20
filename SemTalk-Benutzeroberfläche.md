@@ -1,5 +1,5 @@
 
-![SemTalk Überblick Oberfläche Editor](./images/SemTalkBPMNStart.PNG)
+![SemTalk Überblick Oberfläche Editor](Overview.png)
 
 
 Die SemTalk Online Benutzeroberfläche besteht aus:

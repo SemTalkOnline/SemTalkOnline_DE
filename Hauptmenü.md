@@ -20,7 +20,7 @@ Das Hauptmenü besteht aus mehreren Einträgen, die alle jeweils weitere Unterpu
 
 * **Extras**: Hier sind verschiedenste Funktionalitäten zu finden, z.B. Kopf- und Fußzeileneinstellungen, Auswertungstools, Menüeditor, ChatGPT Werkzeug, Benutzerverwaltung für Administratoren. Siehe [Wiki Seite: Extras](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Men%C3%BCeintrag-Extras)
 
-* **Deutsch**: Hier wird die Modellsprache ausgewählt, die in diesem Fall auf "Deutsch" eingestellt ist. Als weitere Modellsprachen werden u.a. Englisch, Französisch oder Spanisch angeboten. Siehe [Wiki Seite: Sprache](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Language)
+* **Deutsch**: Hier wird die Modellsprache ausgewählt, die in diesem Fall auf "Deutsch" eingestellt ist. Als weitere Modellsprachen werden u.a. Englisch, Französisch oder Spanisch angeboten. Siehe [Wiki Seite: Sprache](https://github.com/SemTalkOnline/SemTalkOnline_DE/wiki/Sprache-in-SemTalk)
 
 ### Account und Optionen (rechtsausgerichtet, blauer Kasten):
 

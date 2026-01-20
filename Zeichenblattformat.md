@@ -9,5 +9,5 @@ Es kann eine Zeichenblattgröße aus gängigen Normen ausgewählt sowie die Ausr
 
 Damit die Seitenränder sichtbar sind, lassen sich über den Menüeintrag Start --> Seitenumbruch die Seitenradnlinie einblenden.
 
-![Zeichenblatt Seitenumbruch](./images/HintergrundSeitenumbruch.png)
+![Zeichenblatt Seitenumbruch](images/hintergrund/HintergrundSeitenumbruch.png)
 
