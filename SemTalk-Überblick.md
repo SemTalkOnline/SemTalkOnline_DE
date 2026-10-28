@@ -5,7 +5,7 @@
 SemTalk Online ist die browser-basierte Variante des Modellierungswerkzeugs SemTalk. Im Gegensatz zum Visio-basierten SemTalk Editor stellen wir Ihnen hier eine Modellierungsanwendung zur Verfügung, mit der Sie auf einem modernen Technologie-Stack Ihre Geschäftsprozesse, Wissensmodelle und andere komplexe Strukturen grafisch bearbeiten und verwalten können. Modelle, die mit SemTalk Online erstellt wurden, zeichnen sich durch verschiedene Verwendungsmöglichkeiten aus: angefangen von der Präsentation in unserem SemTalk Portal über die Kompatibilität und Austauschmöglichkeit mit anderen Werkzeugen bis hin zur Integration in die Plattform Microsoft Office 365 mit ihren Komponenten Microsoft SharePoint und Microsoft Teams. Hier ergeben sich vielfältige Anwendungsmöglichkeiten im Kontext Automatisierung und Wissensmanagement. Gerne tauschen wir uns mit Ihnen zu diesen Themen aus und besprechen mögliche Einsatzszenarien im Rahmen Ihrer Digitalisierungsprojekte. Sprechen Sie uns an unter sales@semtalk.com .
 
 ## Login/Registrierung
-![Login Bildschirm](./images/loginScreen.png)
+![Login Bildschirm](images/loginbildschirm.png)
 
 - Die Default-Datenbank ist standardmäßig unsere Demo-Datenbank, auf der alle Inhalte für alle User sichtbar sind. Bei Bedarf kann eine kundenspezifische Datenbank individuell erstellt werden. Diese Datenbank ist zu Testzwecken und zum Kennenlernen von SemTalk Online gedacht. Es kann sich kostenlos registriert werden. Es wird jedoch davon abgeraten Produktivdaten oder sensible Informationen dort abzuspeichern.
 - Rollen:
@@ -21,7 +21,7 @@ SemTalk Online ist die browser-basierte Variante des Modellierungswerkzeugs SemT
 
 ## Registrierung
 
-![Registrierung Bildschirm](./images/signupScreen.png)
+![Registrierung Bildschirm](images/signupbildschirm.png)
 
 - Zieldatenbank für die Registrierung
 - UserID = E-Mail
@@ -66,7 +66,7 @@ Diese werden auf anderen Wiki Seiten detailiert beschrieben. Folgen Sie den Link
 
 ## Modellierung
 
-![SemTalk Überblick Modellierung Editor](./images/SemTalkBPMNStartEditor.png)
+![SemTalk Überblick Modellierung Editor](images/SemTalkBPMNStartEditor.PNG)
 
 - Aus der Schablone können Symbole auf das Zeichenblatt gezogen und so Modelle aufgebaut werden
 - Durch Doppelklick auf ein Objekt kann ein Name schnell verändert werden, alternativ über die Objekteigenschaften
@@ -78,7 +78,7 @@ Diese werden auf anderen Wiki Seiten detailiert beschrieben. Folgen Sie den Link
 
 ## Objekteigenschaften
 
-![SemTalk Überblick Eigenschaften](./images/SemTalkBPMNStartEigenschaften.png)
+![SemTalk Überblick Eigenschaften](images/SemTalkBPMNStartEigenschaften.PNG)
 
 - Jedes SemTalk Element hat gurndlegende Eigenschaften, die über den Eigenschaften Dialog gesteuert werden
 - Zum öffnen: 
@@ -116,7 +116,7 @@ Der Lesermodus eignet sich hervorragend um Modelle zu teilen und auch Nicht-Mode
 
 ## Oberfläche 
 
-![SemTalk Überblick Lesermodus](./images/SemTalkBPMNStartViewer.png)
+![SemTalk Überblick Lesermodus](images/SemTalkBPMNStartViewer.PNG)
 
 - Wenn mehrere Diagramme im Modell enthalten sind, wird über dem “Pan & Zoom” Fenster ein Auswahlfeld angezeigt. (Rechts)
 

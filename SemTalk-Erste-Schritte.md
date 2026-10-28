@@ -15,7 +15,7 @@ Eine ausführlichere Erklärung zum Login-Bildschirm ist hier zu finden:
 
 ## Registrierung
 
-![Registrierung Bildschirm](./images/signupScreen.png)
+![Registrierung Bildschirm](./images/signupbildschirm.png)
 
 Ist kein Benutzer Account vorhanden, kann eine Registrierung erfolgen, sofern dies in der Applikation freigegeben ist. In der Demo Applikation können sich Benutzer zu Testzwecken frei registrieren und bekomme die Editor Rolle zugewiesen.
 
